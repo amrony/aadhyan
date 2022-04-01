@@ -21,6 +21,8 @@ use Illuminate\Support\Facades\Http;
 
 Route::get('/', [HomeController::class, 'index']);
 Route::post('contact', [HomeController::class, 'contact'])->name('contact');
+Route::get('privacy-policy', [HomeController::class, 'privacyPolicy'])->name('privacy-policy');
+Route::get('disclaimer', [HomeController::class, 'disclaimer'])->name('disclaimer');
 // Route::get('test', function(){
    
 //     $client = new \GuzzleHttp\Client();

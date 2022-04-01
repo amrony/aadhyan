@@ -36,13 +36,25 @@
           </ul>
         </div>
 
-        <div class="col-lg-4 col-md-6 footer-newsletter">
-          <h4>Join Our Newsletter</h4>
-          <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-          <form action="" method="post">
-            <input type="email" name="email"><input type="submit" value="Subscribe">
-          </form>
+        <div class="col-lg-4 col-md-6 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a target="_blank" href="{{ route('privacy-policy') }}">PRIVACY & POLICY</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a target="_blank" href="{{ route('disclaimer') }}">DISCLAIMER</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="">TERMS & CONDITIONS</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">PAYMENT TERMS & CONDITION</a></li>
+          </ul>
         </div>
+
+        {{-- <div class="col-lg-4 col-md-6 footer-newsletter">
+          <h4>Join Our Newsletter</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">PRIVACY & POLICY</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">TERMS & CONDITIONS</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">DISCLAIMER</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">PAYMENT TERMS & CONDITION</a></li>
+          </ul>
+        </div> --}}
 
       </div>
     </div>

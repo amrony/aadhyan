@@ -311,10 +311,720 @@
             
 
             <div class="tab-content" id="pills-tabContent">
-              <div id="sliders"></div>
-
-          
+              
+              <div class="tab-pane fade show active" id="neet" role="tabpanel">
+                <div class="container text-center my-3 tab-card">
+                  <div class="row mx-auto my-auto">
+                      <div id="recipeCarousel" style="height: 370px" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner" role="listbox">
+                              <div class="carousel-item active">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            NEET 2022 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="carousel-item">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            NEET 2022 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 7px; ">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+                            
+                              <div class="carousel-item">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            NEET 2023 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 7px; ">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
   
+                              <div class="carousel-item">
+                                <div class="col-md-4">
+                                    <div class="card-body">
+                                      <div class="card" style="border-radius: 13px;">
+                                        <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                          NEET 2023 PRO LIVE
+                                        </div>
+                                        <div class="card-body text-center">
+                                          <div style="margin-bottom: 7px; ">
+                                            <span class="card-text">Live Video Classes</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Video lectures</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Study Materials</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">MCQ Practice Paper</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Online Test Series</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          
+                                          <div style="margin-bottom: 5px;">
+                                            <div class="card-text">
+                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                            </div>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                          </div>
+                        
+                                          <div class="aadhyan-card-footer">
+                                            <span>EMI starting @ 240/- month</span>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+            
+                          </div>
+                          <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                              <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                              <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                              <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                              <span class="sr-only" style="">Next</span>
+                          </a>
+                      </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="jee" role="tabpanel">
+                
+
+
+                
+                <div class="container text-center my-3 tab-card">
+                  <div class="row mx-auto my-auto">
+                      <div id="recipeCarousel" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner" role="listbox">
+                              <div class="carousel-item active">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            JEE 2022 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="carousel-item">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            JEE 2022 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 7px; ">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+
+                              <div class="carousel-item">
+                                <div class="col-md-4">
+                                    <div class="card-body">
+                                      <div class="card" style="border-radius: 13px;">
+                                        <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                          JEE 2022 PRO LIVE
+                                        </div>
+                                        <div class="card-body text-center">
+                                          <div style="margin-bottom: 7px; ">
+                                            <span class="card-text">Live Video Classes</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Video lectures</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Study Materials</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">MCQ Practice Paper</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Online Test Series</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                        
+                                          
+                                          <div style="margin-bottom: 5px;">
+                                            <div class="card-text">
+                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                            </div>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                          </div>
+                        
+                                          <div class="aadhyan-card-footer">
+                                            <span>EMI starting @ 240/- month</span>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                              <div class="carousel-item">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            JEE 2023 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 7px; ">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+                            
+
+                          </div>
+                          <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                              <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                              <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                              <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                              <span class="sr-only" style="margin-right: -35px;">Next</span>
+                          </a>
+                      </div>
+                  </div>
+                </div>
+
+
+
+              </div>
+
+              <div class="tab-pane fade" id="board" role="tabpanel">
+                
+                
+                <div class="container text-center my-3 tab-card">
+                  <div class="row mx-auto my-auto">
+                      <div id="recipeCarousel" class="carousel slide" data-ride="carousel">
+                          <div class="carousel-inner" role="listbox">
+                              <div class="carousel-item active">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            BOARD 2022 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                            </div>
+                          
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+
+                              <div class="carousel-item">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            BOARD 2022 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 7px; ">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+                            
+                              <div class="carousel-item">
+                                  <div class="col-md-4">
+                                      <div class="card-body">
+                                        <div class="card" style="border-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                            BOARD 2023 PRO LIVE
+                                          </div>
+                                          <div class="card-body text-center">
+                                            <div style="margin-bottom: 7px; ">
+                                              <span class="card-text">Live Video Classes</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Video lectures</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Study Materials</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">MCQ Practice Paper</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span class="card-text">Online Test Series</span>
+                                              <p class="aadhyan-card-body"></p>
+                                            </div>
+                          
+                                            
+                                            <div style="margin-bottom: 5px;">
+                                              <div class="card-text">
+                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                              </div>
+                                            </div>
+                          
+                                            <div style="margin-bottom: 5px;">
+                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                            </div>
+                          
+                                            <div class="aadhyan-card-footer">
+                                              <span>EMI starting @ 240/- month</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+
+                              <div class="carousel-item">
+                                <div class="col-md-4">
+                                    <div class="card-body">
+                                      <div class="card" style="border-radius: 13px;">
+                                        <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                          BOARD 2022 PRO LIVE
+                                        </div>
+                                        <div class="card-body text-center">
+                                          <div style="margin-bottom: 7px; ">
+                                            <span class="card-text">Live Video Classes</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Video lectures</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Study Materials</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">MCQ Practice Paper</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span class="card-text">Online Test Series</span>
+                                            <p class="aadhyan-card-body"></p>
+                                          </div>
+                        
+                        
+                                          
+                                          <div style="margin-bottom: 5px;">
+                                            <div class="card-text">
+                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                            </div>
+                                          </div>
+                        
+                                          <div style="margin-bottom: 5px;">
+                                            <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                          </div>
+                        
+                                          <div class="aadhyan-card-footer">
+                                            <span>EMI starting @ 240/- month</span>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+
+                          </div>
+                          <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                              <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                              <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                              <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                              <span class="sr-only" style="margin-right: -35px;">Next</span>
+                          </a>
+                      </div>
+                  </div>
+                </div>
+
+
+              </div>
+
             </div>
           </div>
         </div>
@@ -633,7 +1343,7 @@
       <!-- End Contact Section -->
 
   <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" >
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
@@ -661,181 +1371,234 @@
 
 @section('js')
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 
-<script>
-    
-  $(document).ready(function() {
+  <script>
+      
+    $(document).ready(function() {
 
-      $.ajax({
-        url: "{{ url('https://aadhyandashboard.in/api/get-category-list') }}",
-        type: "post",
-        success: function(response) {
-          
+        $.ajax({
+          url: "{{ url('https://aadhyandashboard.in/api/get-category-list') }}",
+          type: "post",
+          success: function(response) {
+            
 
-          let result = response.data;
-          let subMenues = response.data[0].classes;
-          const cars = ["car"];
+            let result = response.data;
+            let subMenues = response.data[0].classes;
+            const cars = ["car"];
 
-          const obj = [
-            {
-              "name": "NEET 2022",
-              "id": 2,
-              "classes": [
-                  {
-                      "id": 1,
-                      "name": "NEET REPEATER PRO LIVE",
-                      "image": "storage/uploads/course_classes/2021/image-1638805380.png9",
-                      "banner": null,
-                      "price": "15000.00",
-                      "discount": "9800.00",
-                      "limit_day": "2022-06-30",
-                      "duration": "One years course",
-                      "category_id": 2,
-                      "created_by": 1,
-                      "updated_by": 1,
-                      "status": 1,
-                      "created_at": "2021-11-19T14:59:53.000000Z",
-                      "updated_at": "2022-01-23T06:38:52.000000Z",
-                      "is_purchase": 0
-                  }
-              ]
-            }
-          ];
+            const obj = [
+              {
+                "name": "NEET 2022",
+                "id": 2,
+                "classes": [
+                    {
+                        "id": 1,
+                        "name": "NEET REPEATER PRO LIVE",
+                        "image": "storage/uploads/course_classes/2021/image-1638805380.png9",
+                        "banner": null,
+                        "price": "15000.00",
+                        "discount": "9800.00",
+                        "limit_day": "2022-06-30",
+                        "duration": "One years course",
+                        "category_id": 2,
+                        "created_by": 1,
+                        "updated_by": 1,
+                        "status": 1,
+                        "created_at": "2021-11-19T14:59:53.000000Z",
+                        "updated_at": "2022-01-23T06:38:52.000000Z",
+                        "is_purchase": 0
+                    }
+                ]
+              }
+            ];
 
-          cars.forEach(function(item, key) {
-              // code
+            cars.forEach(function(item, key) {
+                // code
 
-            var rows = `
-              <li class="nav-item" role="presentation">
-                    <button class="nav-link custom_button button2 ${key === 0 && 'active'}"  id="neet-tab" data-toggle="pill" href="#neet"><b>NEET</b></button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link custom_button button2"  id="jee-tab" data-toggle="pill" href="#jee"><b>JEE</b></button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link custom_button button2" id="board-tab" data-toggle="pill" href="#board"><b>BOARD</b></button>
-                  </li>
-              `;
-              //  console.log(rows)
-            $(`#pills-tab`).append(rows);
+              var rows = `
+                <li class="nav-item" role="presentation">
+                      <button class="nav-link custom_button button2 ${key === 0 && 'active'}"  id="neet-tab" data-toggle="pill" href="#neet"><b>NEET</b></button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link custom_button button2"  id="jee-tab" data-toggle="pill" href="#jee"><b>JEE</b></button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link custom_button button2" id="board-tab" data-toggle="pill" href="#board"><b>BOARD</b></button>
+                    </li>
+                `;
+                //  console.log(rows)
+              $(`#pills-tab`).append(rows);
 
 
 
-            var newRows = `<div class="tab-pane fade show active" id="neet" role="tabpanel">
-                              <div class="container text-center my-3 tab-card">
-                                <div class="row mx-auto my-auto">
-                                    <div id="recipeCarousel" style="height: 370px" class="carousel slide" data-ride="carousel">
-                                        <div class="carousel-inner" role="listbox">
-                                            <div class="carousel-item active">
-                                                <div class="col-md-4">
-                                                    <div class="card-body">
-                                                      <div class="card" style="border-radius: 13px;">
-                                                        <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                                          NEET 2022 PRO LIVE
-                                                        </div>
-                                                        <div class="card-body text-center">
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Live Video Classes</span>
-                                                            <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+              var newRows = `<div class="tab-pane fade show active" id="neet" role="tabpanel">
+                                <div class="container text-center my-3 tab-card">
+                                  <div class="row mx-auto my-auto">
+                                      <div id="recipeCarousel" style="height: 370px" class="carousel slide" data-ride="carousel">
+                                          <div class="carousel-inner" role="listbox">
+                                              <div class="carousel-item active">
+                                                  <div class="col-md-4">
+                                                      <div class="card-body">
+                                                        <div class="card" style="border-radius: 13px;">
+                                                          <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                                            NEET 2022 PRO LIVE
                                                           </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Video lectures</span>
-                                                            <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Study Materials</span>
-                                                            <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">MCQ Practice Paper</span>
-                                                            <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Online Test Series</span>
-                                                            <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                                          </div>
-                                        
-                                        
-                                                          
-                                                          <div style="margin-bottom: 5px;">
-                                                            <div class="card-text">
-                                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                          <div class="card-body text-center">
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Live Video Classes</span>
+                                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
                                                             </div>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
-                                                          </div>
-                                        
-                                                          <div class="aadhyan-card-footer">
-                                                            <span>EMI starting @ 240/- month</span>
-                                                          </div>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="carousel-item">
-                                                <div class="col-md-4">
-                                                    <div class="card-body">
-                                                      <div class="card" style="border-radius: 13px;">
-                                                        <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                                          NEET 2022 PRO LIVE
-                                                        </div>
-                                                        <div class="card-body text-center">
-                                                          <div style="margin-bottom: 7px; ">
-                                                            <span class="card-text">Live Video Classes</span>
-                                                            <p class="aadhyan-card-body"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Video lectures</span>
-                                                            <p class="aadhyan-card-body"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Study Materials</span>
-                                                            <p class="aadhyan-card-body"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">MCQ Practice Paper</span>
-                                                            <p class="aadhyan-card-body"></p>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span class="card-text">Online Test Series</span>
-                                                            <p class="aadhyan-card-body"></p>
-                                                          </div>
-                                        
-                                        
-                                                          
-                                                          <div style="margin-bottom: 5px;">
-                                                            <div class="card-text">
-                                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                                            </div>
-                                                          </div>
-                                        
-                                                          <div style="margin-bottom: 5px;">
-                                                            <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
-                                                          </div>
-                                        
-                                                          <div class="aadhyan-card-footer">
-                                                            <span>EMI starting @ 240/- month</span>
-                                                          </div>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                           
-                                            <div class="carousel-item">
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Video lectures</span>
+                                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Study Materials</span>
+                                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">MCQ Practice Paper</span>
+                                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Online Test Series</span>
+                                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                                            </div>
+                                          
+                                          
+                                                            
+                                                            <div style="margin-bottom: 5px;">
+                                                              <div class="card-text">
+                                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                              </div>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
+                                                            </div>
+                                          
+                                                            <div class="aadhyan-card-footer">
+                                                              <span>EMI starting @ 240/- month</span>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                              <div class="carousel-item">
+                                                  <div class="col-md-4">
+                                                      <div class="card-body">
+                                                        <div class="card" style="border-radius: 13px;">
+                                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                                            NEET 2022 PRO LIVE
+                                                          </div>
+                                                          <div class="card-body text-center">
+                                                            <div style="margin-bottom: 7px; ">
+                                                              <span class="card-text">Live Video Classes</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Video lectures</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Study Materials</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">MCQ Practice Paper</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Online Test Series</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                          
+                                                            
+                                                            <div style="margin-bottom: 5px;">
+                                                              <div class="card-text">
+                                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                              </div>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                                            </div>
+                                          
+                                                            <div class="aadhyan-card-footer">
+                                                              <span>EMI starting @ 240/- month</span>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                            
+                                              <div class="carousel-item">
+                                                  <div class="col-md-4">
+                                                      <div class="card-body">
+                                                        <div class="card" style="border-radius: 13px;">
+                                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                                            NEET 2023 PRO LIVE
+                                                          </div>
+                                                          <div class="card-body text-center">
+                                                            <div style="margin-bottom: 7px; ">
+                                                              <span class="card-text">Live Video Classes</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Video lectures</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Study Materials</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">MCQ Practice Paper</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span class="card-text">Online Test Series</span>
+                                                              <p class="aadhyan-card-body"></p>
+                                                            </div>
+                                          
+                                                            
+                                                            <div style="margin-bottom: 5px;">
+                                                              <div class="card-text">
+                                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                              </div>
+                                                            </div>
+                                          
+                                                            <div style="margin-bottom: 5px;">
+                                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                                            </div>
+                                          
+                                                            <div class="aadhyan-card-footer">
+                                                              <span>EMI starting @ 240/- month</span>
+                                                            </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                  
+                                              <div class="carousel-item">
                                                 <div class="col-md-4">
                                                     <div class="card-body">
                                                       <div class="card" style="border-radius: 13px;">
@@ -887,145 +1650,146 @@
                                                     </div>
                                                 </div>
                                             </div>
-                
-                                            <div class="carousel-item">
-                                              <div class="col-md-4">
-                                                  <div class="card-body">
-                                                    <div class="card" style="border-radius: 13px;">
-                                                      <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                                        NEET 2023 PRO LIVE
-                                                      </div>
-                                                      <div class="card-body text-center">
-                                                        <div style="margin-bottom: 7px; ">
-                                                          <span class="card-text">Live Video Classes</span>
-                                                          <p class="aadhyan-card-body"></p>
-                                                        </div>
-                                      
-                                                        <div style="margin-bottom: 5px;">
-                                                          <span class="card-text">Video lectures</span>
-                                                          <p class="aadhyan-card-body"></p>
-                                                        </div>
-                                      
-                                                        <div style="margin-bottom: 5px;">
-                                                          <span class="card-text">Study Materials</span>
-                                                          <p class="aadhyan-card-body"></p>
-                                                        </div>
-                                      
-                                                        <div style="margin-bottom: 5px;">
-                                                          <span class="card-text">MCQ Practice Paper</span>
-                                                          <p class="aadhyan-card-body"></p>
-                                                        </div>
-                                      
-                                                        <div style="margin-bottom: 5px;">
-                                                          <span class="card-text">Online Test Series</span>
-                                                          <p class="aadhyan-card-body"></p>
-                                                        </div>
-                                      
-                                                        
-                                                        <div style="margin-bottom: 5px;">
-                                                          <div class="card-text">
-                                                            <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                                          </div>
-                                                        </div>
-                                      
-                                                        <div style="margin-bottom: 5px;">
-                                                          <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
-                                                        </div>
-                                      
-                                                        <div class="aadhyan-card-footer">
-                                                          <span>EMI starting @ 240/- month</span>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                  </div>
-                                              </div>
+                                            
+                            
                                           </div>
-                                          
-                          
-                                        </div>
-                                        <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                                            <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                                            <span class="sr-only">Previous</span>
-                                        </a>
-                                        <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                                            <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                                            <span class="sr-only" style="">Next</span>
-                                        </a>
-                                    </div>
+                                          <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                                              <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                                              <span class="sr-only">Previous</span>
+                                          </a>
+                                          <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                                              <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                                              <span class="sr-only" style="">Next</span>
+                                          </a>
+                                      </div>
+                                  </div>
                                 </div>
                               </div>
-                            </div>
-  
-              <div class="tab-pane fade" id="jee" role="tabpanel">
-                
-  
-  
-                
-                <div class="container text-center my-3 tab-card">
-                  <div class="row mx-auto my-auto">
-                      <div id="recipeCarousel" class="carousel slide" data-ride="carousel">
-                          <div class="carousel-inner" role="listbox">
-                              <div class="carousel-item active">
+    
+                <div class="tab-pane fade" id="jee" role="tabpanel">
+                  
+    
+    
+                  
+                  <div class="container text-center my-3 tab-card">
+                    <div class="row mx-auto my-auto">
+                        <div id="recipeCarousel" class="carousel slide" data-ride="carousel">
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active">
+                                    <div class="col-md-4">
+                                        <div class="card-body">
+                                          <div class="card" style="border-radius: 13px;">
+                                            <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                              JEE 2022 PRO LIVE
+                                            </div>
+                                            <div class="card-body text-center">
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Live Video Classes</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Video lectures</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Study Materials</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">MCQ Practice Paper</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Online Test Series</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                            
+                                              
+                                              <div style="margin-bottom: 5px;">
+                                                <div class="card-text">
+                                                  <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                </div>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
+                                              </div>
+                            
+                                              <div class="aadhyan-card-footer">
+                                                <span>EMI starting @ 240/- month</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="col-md-4">
+                                        <div class="card-body">
+                                          <div class="card" style="border-radius: 13px;">
+                                            <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                              JEE 2022 PRO LIVE
+                                            </div>
+                                            <div class="card-body text-center">
+                                              <div style="margin-bottom: 7px; ">
+                                                <span class="card-text">Live Video Classes</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Video lectures</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Study Materials</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">MCQ Practice Paper</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Online Test Series</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                            
+                                              
+                                              <div style="margin-bottom: 5px;">
+                                                <div class="card-text">
+                                                  <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                </div>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                              </div>
+                            
+                                              <div class="aadhyan-card-footer">
+                                                <span>EMI starting @ 240/- month</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
+    
+                                <div class="carousel-item">
                                   <div class="col-md-4">
                                       <div class="card-body">
                                         <div class="card" style="border-radius: 13px;">
-                                          <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
                                             JEE 2022 PRO LIVE
                                           </div>
                                           <div class="card-body text-center">
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Live Video Classes</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Video lectures</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Study Materials</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">MCQ Practice Paper</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Online Test Series</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                          
-                                            
-                                            <div style="margin-bottom: 5px;">
-                                              <div class="card-text">
-                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                              </div>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
-                                            </div>
-                          
-                                            <div class="aadhyan-card-footer">
-                                              <span>EMI starting @ 240/- month</span>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="carousel-item">
-                                  <div class="col-md-4">
-                                      <div class="card-body">
-                                        <div class="card" style="border-radius: 13px;">
-                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                            JEE 2022 PRO LIVE
-                                          </div>
-                                          <div class="card-body text-center">
                                             <div style="margin-bottom: 7px; ">
                                               <span class="card-text">Live Video Classes</span>
                                               <p class="aadhyan-card-body"></p>
@@ -1071,201 +1835,254 @@
                                       </div>
                                   </div>
                               </div>
-  
-                              <div class="carousel-item">
-                                <div class="col-md-4">
-                                    <div class="card-body">
-                                      <div class="card" style="border-radius: 13px;">
-                                        <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                          JEE 2022 PRO LIVE
-                                        </div>
-                                        <div class="card-body text-center">
-                                          <div style="margin-bottom: 7px; ">
-                                            <span class="card-text">Live Video Classes</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">Video lectures</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">Study Materials</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">MCQ Practice Paper</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">Online Test Series</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                        
-                                          
-                                          <div style="margin-bottom: 5px;">
-                                            <div class="card-text">
-                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                              
+                                <div class="carousel-item">
+                                    <div class="col-md-4">
+                                        <div class="card-body">
+                                          <div class="card" style="border-radius: 13px;">
+                                            <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                              JEE 2023 PRO LIVE
+                                            </div>
+                                            <div class="card-body text-center">
+                                              <div style="margin-bottom: 7px; ">
+                                                <span class="card-text">Live Video Classes</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Video lectures</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Study Materials</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">MCQ Practice Paper</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Online Test Series</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              
+                                              <div style="margin-bottom: 5px;">
+                                                <div class="card-text">
+                                                  <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                </div>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                              </div>
+                            
+                                              <div class="aadhyan-card-footer">
+                                                <span>EMI starting @ 240/- month</span>
+                                              </div>
                                             </div>
                                           </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
-                                          </div>
-                        
-                                          <div class="aadhyan-card-footer">
-                                            <span>EMI starting @ 240/- month</span>
-                                          </div>
                                         </div>
-                                      </div>
                                     </div>
                                 </div>
+                              
+              
                             </div>
+                            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                                <span class="sr-only" style="margin-right: -35px;">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                  </div>
+    
+    
+    
+                </div>
+    
+                <div class="tab-pane fade" id="board" role="tabpanel">
+                  
+                  
+                  <div class="container text-center my-3 tab-card">
+                    <div class="row mx-auto my-auto">
+                        <div id="recipeCarousel" class="carousel slide" data-ride="carousel">
+                            <div class="carousel-inner" role="listbox">
+                                <div class="carousel-item active">
+                                    <div class="col-md-4">
+                                        <div class="card-body">
+                                          <div class="card" style="border-radius: 13px;">
+                                            <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                              BOARD 2022 PRO LIVE
+                                            </div>
+                                            <div class="card-body text-center">
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Live Video Classes</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
                             
-                              <div class="carousel-item">
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Video lectures</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Study Materials</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">MCQ Practice Paper</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Online Test Series</span>
+                                                <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
+                                              </div>
+                            
+                            
+                                              
+                                              <div style="margin-bottom: 5px;">
+                                                <div class="card-text">
+                                                  <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                </div>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
+                                              </div>
+                            
+                                              <div class="aadhyan-card-footer">
+                                                <span>EMI starting @ 240/- month</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
+    
+                                <div class="carousel-item">
+                                    <div class="col-md-4">
+                                        <div class="card-body">
+                                          <div class="card" style="border-radius: 13px;">
+                                            <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                              BOARD 2022 PRO LIVE
+                                            </div>
+                                            <div class="card-body text-center">
+                                              <div style="margin-bottom: 7px; ">
+                                                <span class="card-text">Live Video Classes</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Video lectures</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Study Materials</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">MCQ Practice Paper</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Online Test Series</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                            
+                                              
+                                              <div style="margin-bottom: 5px;">
+                                                <div class="card-text">
+                                                  <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                </div>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                              </div>
+                            
+                                              <div class="aadhyan-card-footer">
+                                                <span>EMI starting @ 240/- month</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+                                <div class="carousel-item">
+                                    <div class="col-md-4">
+                                        <div class="card-body">
+                                          <div class="card" style="border-radius: 13px;">
+                                            <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
+                                              BOARD 2023 PRO LIVE
+                                            </div>
+                                            <div class="card-body text-center">
+                                              <div style="margin-bottom: 7px; ">
+                                                <span class="card-text">Live Video Classes</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Video lectures</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Study Materials</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">MCQ Practice Paper</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span class="card-text">Online Test Series</span>
+                                                <p class="aadhyan-card-body"></p>
+                                              </div>
+                            
+                                              
+                                              <div style="margin-bottom: 5px;">
+                                                <div class="card-text">
+                                                  <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
+                                                </div>
+                                              </div>
+                            
+                                              <div style="margin-bottom: 5px;">
+                                                <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
+                                              </div>
+                            
+                                              <div class="aadhyan-card-footer">
+                                                <span>EMI starting @ 240/- month</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                </div>
+    
+                                <div class="carousel-item">
                                   <div class="col-md-4">
                                       <div class="card-body">
                                         <div class="card" style="border-radius: 13px;">
                                           <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                            JEE 2023 PRO LIVE
-                                          </div>
-                                          <div class="card-body text-center">
-                                            <div style="margin-bottom: 7px; ">
-                                              <span class="card-text">Live Video Classes</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Video lectures</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Study Materials</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">MCQ Practice Paper</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Online Test Series</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            
-                                            <div style="margin-bottom: 5px;">
-                                              <div class="card-text">
-                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                              </div>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
-                                            </div>
-                          
-                                            <div class="aadhyan-card-footer">
-                                              <span>EMI starting @ 240/- month</span>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                  </div>
-                              </div>
-                            
-            
-                          </div>
-                          <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                              <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                              <span class="sr-only">Previous</span>
-                          </a>
-                          <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                              <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                              <span class="sr-only" style="margin-right: -35px;">Next</span>
-                          </a>
-                      </div>
-                  </div>
-                </div>
-  
-  
-  
-              </div>
-  
-              <div class="tab-pane fade" id="board" role="tabpanel">
-                
-                
-                <div class="container text-center my-3 tab-card">
-                  <div class="row mx-auto my-auto">
-                      <div id="recipeCarousel" class="carousel slide" data-ride="carousel">
-                          <div class="carousel-inner" role="listbox">
-                              <div class="carousel-item active">
-                                  <div class="col-md-4">
-                                      <div class="card-body">
-                                        <div class="card" style="border-radius: 13px;">
-                                          <div class="card-header aadhyan-card-first text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
                                             BOARD 2022 PRO LIVE
                                           </div>
                                           <div class="card-body text-center">
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Live Video Classes</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Video lectures</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Study Materials</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">MCQ Practice Paper</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Online Test Series</span>
-                                              <p class=""  style="margin: 0 auto; border: 1px solid #FFB280; width: 60%;"></p>
-                                            </div>
-                          
-                          
-                                            
-                                            <div style="margin-bottom: 5px;">
-                                              <div class="card-text">
-                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                              </div>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span><img src="assets/img/male-icon.png" style="width: 20px; height: 20px;">5000+ Students Enrolled</span>
-                                            </div>
-                          
-                                            <div class="aadhyan-card-footer">
-                                              <span>EMI starting @ 240/- month</span>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                  </div>
-                              </div>
-  
-                              <div class="carousel-item">
-                                  <div class="col-md-4">
-                                      <div class="card-body">
-                                        <div class="card" style="border-radius: 13px;">
-                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                            BOARD 2022 PRO LIVE
-                                          </div>
-                                          <div class="card-body text-center">
                                             <div style="margin-bottom: 7px; ">
                                               <span class="card-text">Live Video Classes</span>
                                               <p class="aadhyan-card-body"></p>
@@ -1311,388 +2128,217 @@
                                       </div>
                                   </div>
                               </div>
-                            
-                              <div class="carousel-item">
-                                  <div class="col-md-4">
-                                      <div class="card-body">
-                                        <div class="card" style="border-radius: 13px;">
-                                          <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                            BOARD 2023 PRO LIVE
-                                          </div>
-                                          <div class="card-body text-center">
-                                            <div style="margin-bottom: 7px; ">
-                                              <span class="card-text">Live Video Classes</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Video lectures</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Study Materials</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">MCQ Practice Paper</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span class="card-text">Online Test Series</span>
-                                              <p class="aadhyan-card-body"></p>
-                                            </div>
-                          
-                                            
-                                            <div style="margin-bottom: 5px;">
-                                              <div class="card-text">
-                                                <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                              </div>
-                                            </div>
-                          
-                                            <div style="margin-bottom: 5px;">
-                                              <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
-                                            </div>
-                          
-                                            <div class="aadhyan-card-footer">
-                                              <span>EMI starting @ 240/- month</span>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                  </div>
-                              </div>
-  
-                              <div class="carousel-item">
-                                <div class="col-md-4">
-                                    <div class="card-body">
-                                      <div class="card" style="border-radius: 13px;">
-                                        <div class="card-header aadhyan-card-second text-center" style="border-top-right-radius: 13px; border-top-left-radius: 13px;">
-                                          BOARD 2022 PRO LIVE
-                                        </div>
-                                        <div class="card-body text-center">
-                                          <div style="margin-bottom: 7px; ">
-                                            <span class="card-text">Live Video Classes</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">Video lectures</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">Study Materials</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">MCQ Practice Paper</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span class="card-text">Online Test Series</span>
-                                            <p class="aadhyan-card-body"></p>
-                                          </div>
-                        
-                        
-                                          
-                                          <div style="margin-bottom: 5px;">
-                                            <div class="card-text">
-                                              <button type="button" class="btn mt-3 aadhyan-card-button">Enroll Now</button>
-                                            </div>
-                                          </div>
-                        
-                                          <div style="margin-bottom: 5px;">
-                                            <span><img src="assets/img/male-icon.png" class="aadhyan-card-img">5000+ Students Enrolled</span>
-                                          </div>
-                        
-                                          <div class="aadhyan-card-footer">
-                                            <span>EMI starting @ 240/- month</span>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                </div>
+                              
+              
                             </div>
-                            
-            
-                          </div>
-                          <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                              <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                              <span class="sr-only">Previous</span>
-                          </a>
-                          <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                              <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                              <span class="sr-only" style="margin-right: -35px;">Next</span>
-                          </a>
-                      </div>
+                            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                                <span class="sr-only" style="margin-right: -35px;">Next</span>
+                            </a>
+                        </div>
+                    </div>
                   </div>
-                </div>
-  
-  
-              </div>`;
+    
+    
+                </div>`;
 
-              let examle = `<!-- Tabs navs -->
-<ul class="nav nav-tabs mb-3" id="ex1" role="tablist">
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link active"
-      id="ex1-tab-1"
-      data-mdb-toggle="tab"
-      href="#ex1-tabs-1"
-      role="tab"
-      aria-controls="ex1-tabs-1"
-      aria-selected="true"
-      >Tab 1</a
-    >
-  </li>
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link"
-      id="ex1-tab-2"
-      data-mdb-toggle="tab"
-      href="#ex1-tabs-2"
-      role="tab"
-      aria-controls="ex1-tabs-2"
-      aria-selected="false"
-      >Tab 2</a
-    >
-  </li>
-  <li class="nav-item" role="presentation">
-    <a
-      class="nav-link"
-      id="ex1-tab-3"
-      data-mdb-toggle="tab"
-      href="#ex1-tabs-3"
-      role="tab"
-      aria-controls="ex1-tabs-3"
-      aria-selected="false"
-      >Tab 3</a
-    >
-  </li>
-</ul>
-<!-- Tabs navs -->
+              
 
-<!-- Tabs content -->
-<div class="tab-content" id="ex1-content">
-  <div
-    class="tab-pane fade show active"
-    id="ex1-tabs-1"
-    role="tabpanel"
-    aria-labelledby="ex1-tab-1"
-  >
-    Tab 1 content
-  </div>
-  <div class="tab-pane fade" id="ex1-tabs-2" role="tabpanel" aria-labelledby="ex1-tab-2">
-    Tab 2 content
-  </div>
-  <div class="tab-pane fade" id="ex1-tabs-3" role="tabpanel" aria-labelledby="ex1-tab-3">
-    Tab 3 content
-  </div>
-</div>
-<!-- Tabs content -->`;
+                        console.log(newRows);
 
-                      console.log(newRows);
+                      // $(`#sliders`).html(examle);
 
-                    $(`#sliders`).html(examle);
-
-          });
+            });
 
 
 
-        },
-        error: function(data){
-          var errors = data.responseJSON;
-            if($.isEmptyObject(errors) == false){
-                $.each(errors.errors, function(key,value){
-                    var ErrorId = '#' + key + 'Error';
-                    $(ErrorId).removeClass("d-none");
-                    $(ErrorId).text(value);
-                })
+          },
+          error: function(data){
+            var errors = data.responseJSON;
+              if($.isEmptyObject(errors) == false){
+                  $.each(errors.errors, function(key,value){
+                      var ErrorId = '#' + key + 'Error';
+                      $(ErrorId).removeClass("d-none");
+                      $(ErrorId).text(value);
+                  })
+              }
+          }
+        });
+
+
+
+            // -----------------
+
+
+          
+
+            // ---------------------
+
+      // submit 
+
+      $("#testingForm").on('submit',function(e){
+        e.preventDefault();
+        
+        $.ajax({
+          url: "{{ url('https://aadhyandashboard.in/api/counselling-create') }}",
+          type: "post",
+          data: $("#testingForm").serialize(),
+          success: function(data) {
+            console.log(data.message);
+            if( data.message == "Success" ){
+              alertify.set('notifier','position', 'top-right');
+              alertify.success('Your query successfully done!');
+              $("#testingForm")[0].reset();
+            }else{
+              alert("Some Thing Wrong !!!")
             }
+
+          },
+          error: function(data){
+            var errors = data.responseJSON;
+              if($.isEmptyObject(errors) == false){
+                  $.each(errors.errors, function(key,value){
+                      var ErrorId = '#' + key + 'Error';
+                      $(ErrorId).removeClass("d-none");
+                      $(ErrorId).text(value);
+                  })
+              }
+          }
+        })
+        
+      })
+    })
+  </script>
+
+
+  <script>
+    $(function(){
+    
+    var liCount = $('.slider li').length;
+    var ulWidth = (liCount * 100);
+    var liWidth = (100/liCount);
+    var leftIncrement = (ulWidth/liCount);
+
+
+    $('.slider').height($('.slider li img').height());
+    //$('.slider').height('300px');
+    
+    $('.slider img').on('load', function(){
+      $('.loader').fadeOut();
+      $('.slider').height($(this).height());
+    })
+
+    $(window).resize(function() {
+      $('.slider').css('height', $('.slider li img').height());
+    }); 
+    
+    $('.slider ul').css('width', ulWidth + '%');
+    $('.slider li').css('width', liWidth + '%');
+
+    $('.slider').append(function() {
+      $(this).append('<div class="navigator"></div>');
+      $(this).prepend('<span class="prev">Prev</span><span class="next">Next</span>');
+      //$(this).append('<div class="autoPlay"><input id="chkBox" type="checkbox" class="chkbox" /><label for="chkBox">Auto Play?</label></div>');
+
+      $(this).find('li').each(function(){
+        $('.navigator').append('<span></span>');
+      });
+    });
+
+    $('.slider').css('height', $('.slider li img').height());
+    
+    $('.navigator span:first-child').addClass('active');
+
+
+    if(liCount > 2) {
+      $('.slider ul').css('margin-left', -leftIncrement + '%');
+      $('.slider ul li:last-child').prependTo('.slider ul');
+    } else if(liCount == 1) {
+      $('.slider span').css('display', 'none');
+      $('.autoPlay').css('display', 'none');
+    } else if(liCount == 2) {
+      $('.slider .prev').css('display', 'none');
+    }
+
+    function moveLeft() {
+      $('.slider ul').animate({
+        left : -leftIncrement + '%'
+      }, 500, function(){
+        $('.slider ul li:first-child').appendTo('.slider ul');
+        $('.slider ul').css('left', '');
+
+        if($('.navigator span').hasClass('active')) {
+
+          if($('.navigator span.active').is(':last-child')) {
+            $('span.active').removeClass('active');
+            $('.navigator span:first-child').addClass('active');
+          } else {
+            $('span.active').next().addClass('active');
+            $('span.active').prev().removeClass('active');
+          }
         }
       });
+    }
 
 
+    function moveRight() {
+      $('.slider ul').animate({
+        left : leftIncrement + '%'
+      }, 500, function(){
+        $('.slider ul li:last-child').prependTo('.slider ul');
+        $('.slider ul').css('left', '');
 
-          // -----------------
+        if($('.navigator span').hasClass('active')) {
 
-
-         
-
-          // ---------------------
-
-    // submit 
-
-    $("#testingForm").on('submit',function(e){
-      e.preventDefault();
-      
-      $.ajax({
-        url: "{{ url('https://aadhyandashboard.in/api/counselling-create') }}",
-        type: "post",
-        data: $("#testingForm").serialize(),
-        success: function(data) {
-          console.log(data.message);
-          if( data.message == "Success" ){
-            alertify.set('notifier','position', 'top-right');
-            alertify.success('Your query successfully done!');
-            $("#testingForm")[0].reset();
-          }else{
-            alert("Some Thing Wrong !!!")
+          if($('.navigator span.active').is(':first-child')) {
+            $('span.active').removeClass('active');
+            $('.navigator span:last-child').addClass('active');
+          } else {
+            $('span.active').prev().addClass('active');
+            $('span.active').next().removeClass('active');
           }
-
-        },
-        error: function(data){
-          var errors = data.responseJSON;
-            if($.isEmptyObject(errors) == false){
-                $.each(errors.errors, function(key,value){
-                    var ErrorId = '#' + key + 'Error';
-                    $(ErrorId).removeClass("d-none");
-                    $(ErrorId).text(value);
-                })
-            }
         }
-      })
-      
-    })
-  })
-</script>
+      });
+    }
 
 
+    // $('.chkbox').click(function() {
+    // 	if($('.chkbox').is(':checked')) {
+    // 		$('.slider > span').hide();
+    // 		$(this).next('label').text('Auto Playing')
+    // 		invertalValue = setInterval(function() {
+    // 			moveLeft();
+    // 		}, 5000);
+    // 	} else {
+    // 		$(this).next('label').text('Auto Play?')
+    // 		if(liCount == 2) {
+    // 			$('.slider .next').show();
+    // 		} else if(liCount > 2){
+    // 			$('.slider > span').show();
+    // 		}
+    // 		clearInterval(invertalValue);
+    // 	}
+    // });
+    
+    if(liCount > 1) {
+      invertalValue = setInterval(function() {
+        moveLeft();
+      }, 5000);
+    }
 
+    $('.prev').click(function(){
+      moveRight();
+    });
 
+    $('.next').click(function(){
+      moveLeft();
+    });
 
+  });
 
-
-
-<script>
-  $(function(){
-	
-	var liCount = $('.slider li').length;
-	var ulWidth = (liCount * 100);
-	var liWidth = (100/liCount);
-	var leftIncrement = (ulWidth/liCount);
-
-
-	$('.slider').height($('.slider li img').height());
-  //$('.slider').height('300px');
-	
-	$('.slider img').on('load', function(){
-    $('.loader').fadeOut();
-		$('.slider').height($(this).height());
-	})
-
-	$(window).resize(function() {
-		$('.slider').css('height', $('.slider li img').height());
-	}); 
-	
-	$('.slider ul').css('width', ulWidth + '%');
-	$('.slider li').css('width', liWidth + '%');
-
-	$('.slider').append(function() {
-		$(this).append('<div class="navigator"></div>');
-		$(this).prepend('<span class="prev">Prev</span><span class="next">Next</span>');
-		//$(this).append('<div class="autoPlay"><input id="chkBox" type="checkbox" class="chkbox" /><label for="chkBox">Auto Play?</label></div>');
-
-		$(this).find('li').each(function(){
-			$('.navigator').append('<span></span>');
-		});
-	});
-
-  $('.slider').css('height', $('.slider li img').height());
-  
-	$('.navigator span:first-child').addClass('active');
-
-
-	if(liCount > 2) {
-		$('.slider ul').css('margin-left', -leftIncrement + '%');
-		$('.slider ul li:last-child').prependTo('.slider ul');
-	} else if(liCount == 1) {
-		$('.slider span').css('display', 'none');
-		$('.autoPlay').css('display', 'none');
-	} else if(liCount == 2) {
-		$('.slider .prev').css('display', 'none');
-	}
-
-	function moveLeft() {
-		$('.slider ul').animate({
-			left : -leftIncrement + '%'
-		}, 500, function(){
-			$('.slider ul li:first-child').appendTo('.slider ul');
-			$('.slider ul').css('left', '');
-
-			if($('.navigator span').hasClass('active')) {
-
-				if($('.navigator span.active').is(':last-child')) {
-					$('span.active').removeClass('active');
-					$('.navigator span:first-child').addClass('active');
-				} else {
-					$('span.active').next().addClass('active');
-					$('span.active').prev().removeClass('active');
-				}
-			}
-		});
-	}
-
-
-	function moveRight() {
-		$('.slider ul').animate({
-			left : leftIncrement + '%'
-		}, 500, function(){
-			$('.slider ul li:last-child').prependTo('.slider ul');
-			$('.slider ul').css('left', '');
-
-			if($('.navigator span').hasClass('active')) {
-
-				if($('.navigator span.active').is(':first-child')) {
-					$('span.active').removeClass('active');
-					$('.navigator span:last-child').addClass('active');
-				} else {
-					$('span.active').prev().addClass('active');
-					$('span.active').next().removeClass('active');
-				}
-			}
-		});
-	}
-
-
-	// $('.chkbox').click(function() {
-	// 	if($('.chkbox').is(':checked')) {
-	// 		$('.slider > span').hide();
-	// 		$(this).next('label').text('Auto Playing')
-	// 		invertalValue = setInterval(function() {
-	// 			moveLeft();
-	// 		}, 5000);
-	// 	} else {
-	// 		$(this).next('label').text('Auto Play?')
-	// 		if(liCount == 2) {
-	// 			$('.slider .next').show();
-	// 		} else if(liCount > 2){
-	// 			$('.slider > span').show();
-	// 		}
-	// 		clearInterval(invertalValue);
-	// 	}
-	// });
-  
-  if(liCount > 1) {
-		invertalValue = setInterval(function() {
-			moveLeft();
-		}, 5000);
-	}
-
-	$('.prev').click(function(){
-		moveRight();
-	});
-
-	$('.next').click(function(){
-		moveLeft();
-	});
-
-});
-
-</script>
+  </script>
 @endsection
